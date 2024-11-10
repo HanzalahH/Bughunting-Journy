@@ -1,2 +1,2 @@
 # Bughunting-Journy
-Bug-Hunting Journy By Author: Ghost-Blade
+BugHunting Notes by Author: Ghost-Blade
