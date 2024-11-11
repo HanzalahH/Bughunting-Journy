@@ -14,9 +14,7 @@ go install github.com/utkusen/socialhunter@latest
 
 ## Scripts
 
-
-
-
+subfinder --all --recursive -d looka.com >> subs.txt  && assetfinder --subs-only looka.com >> sub.txt && cat subs.txt | sort -u |httpx | tee -a subs-http.txt && socialhunter -f subs-http.txt
 
 
 # Free Website For Checking BLH
