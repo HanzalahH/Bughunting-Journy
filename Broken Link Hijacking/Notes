@@ -4,7 +4,7 @@ In a broken link hijacking (BLH) attack, the attacker takes advantage of invalid
 
 # What to Find ?
 
-Find some third party urls or links that is on the main targeted website or linked with your target website 
+Find some third party urls or links that is on the main targeted website or linked with your target website and if you click them they will show  404 !!
 
 # Automaction For BLH
 
@@ -14,7 +14,7 @@ go install github.com/utkusen/socialhunter@latest
 
 ## Scripts
 
-subfinder --all --recursive -d looka.com >> subs.txt  && assetfinder --subs-only looka.com >> sub.txt && cat subs.txt | sort -u |httpx | tee -a subs-http.txt && socialhunter -f subs-http.txt
+subfinder --all --recursive -d looka.com >> subs.txt  && assetfinder --subs-only looka.com >> sub.txt && cat subs.txt | sort -u |httpx | tee -a subs-http.txt && socialhunter -f subs-http.txt | tee -a social-hunter.txt
 
 
 # Free Website For Checking BLH
