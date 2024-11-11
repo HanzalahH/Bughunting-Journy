@@ -8,7 +8,14 @@ Find some third party urls or links that is on the main targeted website or link
 
 # Automaction For BLH
 
-# Bypasses
+## Tool Installation Script 
+
+go install github.com/utkusen/socialhunter@latest
+
+## Scripts
+
+
+
 
 
 
@@ -20,3 +27,19 @@ https://www.deadlinkchecker.com/website-dead-link-checker.asp
 # Free Chrome Extenctions For Checking BLH
 
 [Broken Link Checker](https://chromewebstore.google.com/detail/broken-link-checker/bjcoimpfplliplknnmgbffboiihamekf)
+
+# Amazing Blogs For BLH
+
+```
+https://devanshchauhan4565.medium.com/hijacking-broken-links-for-4204674606fb
+https://mehedishakeel.medium.com/broken-link-hijacking-my-second-finding-on-hackerone-d715b0713fca
+https://shahjerry33.medium.com/broken-link-hijacking-mr-user-agent-cd124297f6e6
+https://medium.com/@sreejihkn43073/how-i-got-broken-link-hijacking-vulnerability-in-gov-website-eafdc867a187
+https://medium.com/@cyb3rD1vvya/what-is-broken-link-hijacking-6e9077197216
+https://saeidmicro.medium.com/broken-link-hijacking-8ff4808a6cd2
+https://medium.com/@chouhanhimanshu532/broken-link-hijacking-a-hidden-threat-350-bounty-bb5978177b1d
+https://jeyabalaji700.medium.com/broken-link-hijacking-6b7871fbbf30
+https://parasarora06.medium.com/easy-win-with-broken-link-hijacking-1084007966f3
+https://medium.com/@himangshusarkar622/broken-link-hijacking-how-expired-links-can-be-exploited-0865ab114888
+```
+
