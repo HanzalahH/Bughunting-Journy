@@ -1,6 +1,19 @@
 # What is Broken Link Hijacking? 
 
-# Bypasses 
+In a broken link hijacking (BLH) attack, the attacker takes advantage of invalid external links. If your website or web application contains outbound links or is loading resources from external URLs and those resources are no longer available (for example, due to an expired domain), attackers can use these links to perform defacement, impersonation, phishing, or cross-site scripting attacks. BLH attacks are also possible if you employ third-party services like file hosting or link shortening, for example, on social media.
+
+# What to Find ?
+
+Find some third party urls or links that is on the main targeted website
+
+# Bypasses
+
+
+
+# Free Website For Checking Broken Link Hijacking
+
+https://www.deadlinkchecker.com/website-dead-link-checker.asp
+
 
 # Free Chrome Extenctions For Checking Broken Link Hijacking
 
